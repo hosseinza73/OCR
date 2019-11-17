@@ -1,6 +1,5 @@
 # OCR
-This repository contains the Project of MicrocontrollersAndMore, “Opencv 3 license plate recognition cpp.” https://github.com/MicrocontrollersAndMore/OpenCV 3 License Plate Recognition Cpp with some modifications mention in Readme 
-
+This repository contains the Project of MicrocontrollersAndMore, “Opencv 3 license plate recognition cpp.” with some modifications
 The changes added to this project:
 
 1) Retraining the OCR and adding dutch license plate font to improve the character detection. training_chars.png is used to train
